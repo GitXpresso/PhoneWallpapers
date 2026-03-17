@@ -1,9 +1,9 @@
 # 🎮 Phone Wallpapers
 
 ![version](https://img.shields.io/badge/version-1.4-brightgreen)
-![platform](https://img.shields.io/badge/platform-Android-brightgreen)
-![minSdk](https://img.shields.io/badge/minSdk-21-brightgreen)
-![license](https://img.shields.io/badge/license-MIT-brightgreen)
+![platform](https://img.shields.io/badge/platform-Android-orange)
+![minSdk](https://img.shields.io/badge/minSdk-21-blue)
+![license](https://img.shields.io/badge/license-MIT-red)
 
 <p align="center">
   <img src="screenshots/logo.png" width="20%">
@@ -82,18 +82,22 @@ Creating a stylish and unique home screen
 ## 📸 Screenshots
 
 <p align="center" float="left">
+
+  <p align="center">
+  <img src="screenshots/ss1.jpg" width="20%">
+</p>
 <table>
   <tr>
-    <td><img src="screenshots/ss1.jpg" width="230"></td>
     <td><img src="screenshots/ss2.jpg" width="230"></td>
     <td><img src="screenshots/ss3.jpg" width="230"></td>
     <td><img src="screenshots/ss4.jpg" width="230"></td>
+    <td><img src="screenshots/ss5.jpg" width="230"></td>
   </tr>
    <tr>
-    <td><img src="screenshots/ss1.jpg" width="230"></td>
+    <td><img src="screenshots/ss6.jpg" width="230"></td>
+    <td><img src="screenshots/ss7.jpg" width="230"></td>
+    <td><img src="screenshots/ss8.jpg" width="230"></td>
     <td><img src="screenshots/ss2.jpg" width="230"></td>
-    <td><img src="screenshots/ss3.jpg" width="230"></td>
-    <td><img src="screenshots/ss4.jpg" width="230"></td>
   </tr>
  </table>
  
