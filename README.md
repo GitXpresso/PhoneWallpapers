@@ -6,7 +6,7 @@
 ![license](https://img.shields.io/badge/license-MIT-brightgreen)
 
 <p align="center">
-  <img src="screenshots/fm_banner.jpg" width="80%">
+  <img src="screenshots/logo.png" width="80%">
 </p>
 
 ### Overview :
