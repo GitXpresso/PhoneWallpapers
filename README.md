@@ -88,10 +88,10 @@ Creating a stylish and unique home screen
 </p>
 <table>
   <tr>
-    <td><img src="screenshots/ss2.jpg" width="230"></td>
-    <td><img src="screenshots/ss3.jpg" width="230"></td>
-    <td><img src="screenshots/ss4.jpg" width="230"></td>
     <td><img src="screenshots/ss5.jpg" width="230"></td>
+    <td><img src="screenshots/ss6.jpg" width="230"></td>
+    <td><img src="screenshots/ss7.jpg" width="230"></td>
+    <td><img src="screenshots/ss8.jpg" width="230"></td>
   </tr>
    <tr>
     <td><img src="screenshots/ss6.jpg" width="230"></td>
