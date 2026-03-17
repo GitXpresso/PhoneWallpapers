@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextStyle">
+    </style>
+    <style name="TextStyle.Frames">
+    </style>
+
+    <style name="TextStyle.Frames.CollectionCount">
+        <item name="android:textColor">#fff</item>
+    </style>
+    <style name="TextStyle.Frames.CollectionTitle">
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="TextStyle.Frames.WallpaperSubtitle">
+        <item name="android:textColor">#fff</item>
+    </style>
+    <style name="TextStyle.Frames.WallpaperTitle">
+        <item name="android:textColor">#fff</item>
+    </style>
+    <style name="CustomTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:statusBarColor">#00000000</item>
+    </style>
+    <style name="BottomSheetDialogTheme" parent="Theme.Material3.Dark.BottomSheetDialog">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/black1</item>
+    </style>
+
+    <style name="textStyle">
+        <item name="android:layout_height">45dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="fontFamily">@font/manrope_medium</item>
+    </style>
+
+    <style name="traparentdialog">
+        <item name="android:windowBackground">@color/black_tran</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <color name="black_tran">#C1000000</color>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Phone Wallpapers</string>
+    <string name="title_activity_frame">FrameActivity</string>
+    <string name="title_home">Wallpapers</string>
+    <string name="title_dashboard">Categories</string>
+    <string name="title_notifications">Favorites</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="download">Save</string>
+    <string name="details">Info</string>
+    <string name="apply">Apply</string>
+
+    <string name="tap_to_copy">Tap swatches to copy.</string>
+    <string name="palette">Colors</string>
+    <string name="info">Info</string>
+
+    <string name="vibrant">Vibrant</string>
+    <string name="vibrant_light">Vibrant Light</string>
+    <string name="vibrant_dark">Vibrant Dark</string>
+    <string name="muted">Muted</string>
+    <string name="muted_light">Muted Light</string>
+    <string name="muted_dark">Muted Dark</string>
+
+    <string name="allappslink">market://search?q=pub:PanthiTech</string>
+    <string name="allappsweblink">https://play.google.com/store/apps/developer?id=PanthiTech</string>
+
+    <string name="nointernet">No internet availble!</string>
+    <string name="share_using">Share using...</string>
+
+    <string name="icon_desc">Ad icon</string>
+    <string name="image_desc">Ad image</string>
+    <string name="sponsored">Sponsored</string>
+</resources>
