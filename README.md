@@ -1,4 +1,4 @@
-# 🎮 Fruit Match Android Game
+# 🎮 Phone Wallpapers
 
 ![version](https://img.shields.io/badge/version-1.4-brightgreen)
 ![platform](https://img.shields.io/badge/platform-Android-brightgreen)
