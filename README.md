@@ -97,7 +97,7 @@ Creating a stylish and unique home screen
     <td><img src="screenshots/ss3.jpg" width="230"></td>
     <td><img src="screenshots/ss2.jpg" width="230"></td>
     <td><img src="screenshots/ss4.jpg" width="230"></td>
-    <td><img src="screenshots/ss2.jpg" width="230"></td>
+    <td><img src="screenshots/ss5.jpg" width="230"></td>
   </tr>
  </table>
  
