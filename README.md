@@ -13,6 +13,7 @@
 Discover a world of stunning visuals with this beautifully designed Phone Wallpaper App, created to personalize your device with high-quality and aesthetic wallpapers.
 
 This app offers a wide collection of wallpapers across multiple categories, ensuring there’s something for everyone—from minimal designs to vibrant artistic backgrounds.
+
 --
 ## 📱✨ Key Features
 
